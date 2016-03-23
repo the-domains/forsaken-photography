@@ -1,0 +1,28 @@
+name: FORSAKEN.photography
+favicon: null
+layout_spectrum: 0.09912599180825055
+typography_spectrum: 0.228394222445786
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9630588700529188
+  lightness: 0.007067924598231912
+  saturation: 0.6436530365608633
+  rhythmicContrast: 0.9436532168183476
+purpose: []
