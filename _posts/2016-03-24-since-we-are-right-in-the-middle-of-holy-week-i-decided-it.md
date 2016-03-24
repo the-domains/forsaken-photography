@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Since we are right in the middle of Holy Week, I decided it would be a good time to take a ride up to Holy Land USA in Waterbury, CT. The last time (and first time) I came here was over 10 years ago, and it was already in a terrible state of disrepair. I'll have to dig up the few pictures I took from that trip (just prints from a film point and shoot lol). It definitely looks much worse now than I remember it being then. I have some vague memories of headless camels that were completely absent this time. Overall though it is a miracle that it's even still here at all 10+ years is a whole lot of time for vandals and the weather to do their worst. To me it was fascinating, as a photographer and lover of all things abandoned, and also sad that nothing could be done to save this quirky little place that seemed to be so lovingly made as a fun tribute to God. There is a bright side though. A few years ago a brand new cross was erected on the peak (with the help of my friend Dave and his Industrial Riggers) so at least a part of Holy Land shines brightly every night in all different colors depending on the season ♥"
-datePublished: '2016-03-24T01:58:52.873Z'
-dateModified: '2016-03-24T01:58:41.283Z'
+datePublished: '2016-03-24T01:59:47.246Z'
+dateModified: '2016-03-24T01:59:45.485Z'
 title: Holy Land USA - Waterbury CT
 author: []
 sourcePath: _posts/2016-03-24-since-we-are-right-in-the-middle-of-holy-week-i-decided-it.md
