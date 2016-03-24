@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Since we are right in the middle of Holy Week, I decided it would be a good time to take a ride up to Holy Land USA in Waterbury, CT. The last time (and first time) I came here was over 10 years ago, and it was already in a terrible state of disrepair. I'll have to dig up the few pictures I took from that trip (just prints from a film point and shoot lol). It definitely looks much worse now than I remember it being then. I have some vague memories of headless camels that were completely absent this time. Overall though it is a miracle that it's even still here at all 10+ years is a whole lot of time for vandals and the weather to do their worst. To me it was fascinating, as a photographer and lover of all things abandoned, and also sad that nothing could be done to save this quirky little place that seemed to be so lovingly made as a fun tribute to God. There is a bright side though. A few years ago a brand new cross was erected on the peak (with the help of my friend Dave and his Industrial Riggers) so at least a part of Holy Land shines brightly every night in all different colors depending on the season ♥"
-datePublished: '2016-03-24T01:33:15.536Z'
-dateModified: '2016-03-24T01:32:17.536Z'
+datePublished: '2016-03-24T01:38:38.523Z'
+dateModified: '2016-03-24T01:38:24.004Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-24-since-we-are-right-in-the-middle-of-holy-week-i-decided-it.md
@@ -29,14 +29,14 @@ Since we are right in the middle of Holy Week, I decided it would be a good time
 If you go, don't be an idiot and go alone like I did (Lots of people told me how dumb that was and I should have know myself. I think I lack the risk aversion gene.) Waterbury can be a rough place, and abandoned places by nature tend to also be rough places. Also please be respectful. Take nothing but pictures. Leave nothing but footprints.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/33a02938e3c6be8c2e4b3765b0fa8f485e9bea55.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4048f3b9a04479aa8acae0babe259ba4a09b7fee.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35657abc-7715-4ea7-b723-3583f80cb267.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1129c37-274b-4d61-b12a-2d663119232e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc0e88bf-9502-4eac-822d-19d6fadbb300.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7bb739c8-96a6-402a-b555-f5bc1143b4c3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8391037-b04f-4146-bf1d-aecced02ee54.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5128291e-a24c-41a2-8579-34172ee42f11.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2295daa-dada-46b1-97b6-64b57f28ed71.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2e741e4-de91-4b2a-a93f-0f5d902228b3.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fd442d74288a74fdf04bb01dd647107c4ac4926.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2216d1ae763c20d082ebf5d09defb1ead1fe7a7.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd864c95ab7eba285f709ea6804dd69752cdfb5c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0aab418415441ba6715c42747ef5057a12bbfe08.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ed55c32b6d7bf82c3def8aa08bf54e733fa896f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ccc4df0959a2e66aa83c06e1288c81b849c5f93.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e4a1e54f8d3e8fff60aca33b6bb49e96c2e1d3f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90a9f2244ab11c20143d9b1354538f3accd4aa9b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ad1bf81-c7b6-455f-b1ef-98e609ee9735.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a85d239-5ae5-418c-b3e7-b603b49550fd.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7ce11cb-0a47-4058-95fc-ff5884f2e665.jpg)
