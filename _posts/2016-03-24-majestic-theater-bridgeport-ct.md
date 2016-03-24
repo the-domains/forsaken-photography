@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-24T02:57:15.795Z'
-dateModified: '2016-03-24T02:55:33.945Z'
+datePublished: '2016-03-24T04:38:15.323Z'
+dateModified: '2016-03-24T04:37:33.155Z'
 title: 'Majestic Theater - Bridgeport, CT'
 author: []
 sourcePath: _posts/2016-03-24-majestic-theater-bridgeport-ct.md
