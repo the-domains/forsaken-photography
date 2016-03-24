@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Welcome to the new home of FORSAKEN.photography! My passion is photographing strange, unusual and abandoned places. I especially love photographing people in those places. If you want portraits or headshots that are edgy, rugged or just more interesting than what everyone else is doing, you've come to the right place! My home base is Fairfield County, CT, but I'll go anywhere to do a kickass portrait in a kickass place!"
-datePublished: '2016-03-24T01:05:12.761Z'
-dateModified: '2016-03-23T21:28:47.329Z'
+datePublished: '2016-03-24T01:05:47.273Z'
+dateModified: '2016-03-24T01:05:16.341Z'
 title: 'Get in touch!'
 author: []
 sourcePath: _posts/2016-03-23-get-in-touch.md
