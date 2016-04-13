@@ -4,7 +4,7 @@
         <description><![CDATA[Edgy protraits in interesting places]]></description>
         <link>http://forsaken.photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 03:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2016 14:10:38 GMT</lastBuildDate>
         <atom:link href="http://forsaken.photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get in touch!]]></title>
@@ -19,6 +19,13 @@
             <link>http://forsaken.photography/d5285107-77b5-4527-9aeb-902125f0544f/index.html</link>
             <guid isPermaLink="false">d5285107-77b5-4527-9aeb-902125f0544f</guid>
             <pubDate>Thu, 24 Mar 2016 02:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4732b9f773caee85bd2c1ab6e6c337d047087e81.jpg" alt="" title="" />]]></description>
+            <link>http://forsaken.photography/86b1b4f5-31fd-4a5e-a5b4-a576bdd1ea5f/index.html</link>
+            <guid isPermaLink="false">86b1b4f5-31fd-4a5e-a5b4-a576bdd1ea5f</guid>
+            <pubDate>Wed, 13 Apr 2016 14:10:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://forsaken.photography/a6d6fd84-e647-4339-adf7-5dd0a971dda6/index.html</link>
             <guid isPermaLink="false">a6d6fd84-e647-4339-adf7-5dd0a971dda6</guid>
             <pubDate>Thu, 24 Mar 2016 20:48:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Exploring Ponemah Mills in Taftville CT]]></title>
-            <description><![CDATA[<article><h1>Exploring Ponemah Mills in Taftville CT</h1><p>If you know me, you know that I like nothing better than urban exploring, the more dilapidated the better! So I was thrilled that my mom wanted to take me down to the old mill in Taftville the day after Christmas. She's a photographer too, and she loves exploring hidden places as much as I do!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a07738e7d693daf6236783ac96b4d058aaaf56cd.jpg"></article>]]></description>
-            <link>http://www.heatherprescottphotography.com/blog/2014/12/exploring-ponemah-mills-in-taftville-ct</link>
-            <guid isPermaLink="false">30cb88ec-672e-46f3-b7a4-610be6baed7a</guid>
-            <pubDate>Thu, 24 Mar 2016 17:35:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
