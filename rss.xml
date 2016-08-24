@@ -4,7 +4,7 @@
         <description><![CDATA[Edgy protraits in interesting places]]></description>
         <link>http://forsaken.photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 19:55:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 19:55:21 GMT</lastBuildDate>
         <atom:link href="http://forsaken.photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get in touch!]]></title>
@@ -19,6 +19,13 @@
             <link>http://forsaken.photography/d5285107-77b5-4527-9aeb-902125f0544f/index.html</link>
             <guid isPermaLink="false">d5285107-77b5-4527-9aeb-902125f0544f</guid>
             <pubDate>Thu, 24 Mar 2016 02:57:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/571ea59e86a1f546dfb01f9b3eb507c6c269645f.jpg">]]></description>
+            <link>http://forsaken.photography/2a8d04ae-e7c9-4226-97ad-d38c28ac4ad9/index.html</link>
+            <guid isPermaLink="false">2a8d04ae-e7c9-4226-97ad-d38c28ac4ad9</guid>
+            <pubDate>Wed, 24 Aug 2016 19:55:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://forsaken.photography/3b92c770-98a4-4dcd-ab3f-97c74a1f122d/index.html</link>
             <guid isPermaLink="false">3b92c770-98a4-4dcd-ab3f-97c74a1f122d</guid>
             <pubDate>Wed, 01 Jun 2016 14:38:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Griswold High's Production of Jesus Christ Superstar]]></title>
-            <description><![CDATA[<article><h1>Griswold High's Production of Jesus Christ Superstar</h1><p>Y esterday I had the incredible pleasure of seeing the Griswold High production of Jesus Christ Superstar, and I was absolutely blown away! These kids were amazing! If I didn't already know I would have definitely thought this was a professional production. They moved me to tears over and over.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f0f65cc09887bbef80bb0ea1a02ba72ba9117d0.jpg"></article>]]></description>
-            <link>http://www.heatherprescottphotography.com/blog/2016/5/griswold-highs-production-of-jesus-christ-superstar</link>
-            <guid isPermaLink="false">9de7a49b-a45a-4223-9300-44d0625e6f78</guid>
-            <pubDate>Mon, 02 May 2016 14:47:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
