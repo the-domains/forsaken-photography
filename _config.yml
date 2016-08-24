@@ -1,20 +1,4 @@
-name: FORSAKEN.photography
-favicon: null
-layout_spectrum: 0.03817
 typography_spectrum: 0.46912
-title: Edgy protraits in interesting places
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 0
   saturation: 0.6436530365608633
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.03817
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: FORSAKEN.photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Get in touch!
+    id: 0ff5d032-2026-462f-8a60-55a75eeea75b
+    type: content
+favicon: null
+title: Edgy protraits in interesting places
 purpose: []
