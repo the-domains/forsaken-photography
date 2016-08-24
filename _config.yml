@@ -1,4 +1,3 @@
-layout_spectrum: 0.471083307871595
 typography_spectrum: 0.5034979484044015
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.471083307871595
 analytics:
   google: null
   facebook: null
@@ -29,5 +29,5 @@ navigation:
     id: 0ff5d032-2026-462f-8a60-55a75eeea75b
     type: content
 favicon: null
-title: Edgy protraits in interesting places
+title: Edgy protraits Interesting places
 purpose: []
